@@ -1,5 +1,4 @@
 import random
-import datetime
 
 def generate_password(character_set):
     password = ''
